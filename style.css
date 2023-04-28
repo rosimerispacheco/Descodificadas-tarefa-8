@@ -1,0 +1,41 @@
+body {
+  width: 50%;
+  margin-left: 330px;
+  margin-top: 50px;
+}
+
+div {
+  display: inline-block;
+  border: 1px solid black;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.quadrado8,
+.quadrado9,
+.quadrado10,
+.quadrado11 {
+  background-color: aqua;
+}
+
+.quadrado14,
+.quadrado15,
+.quadrado16,
+.quadrado17 {
+  background-color: green;
+}
+
+.quadrado20,
+.quadrado21,
+.quadrado22,
+.quadrado23 {
+  background-color: yellow;
+}
+
+.quadrado1,
+.quadrado6,
+.quadrado25,
+.quadrado30 {
+  border: 2px solid black;
+}
